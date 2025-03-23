@@ -6,7 +6,7 @@ Welcome to the **Snake Game**! This is a classic Snake game built using **Pygame
 
 ## 🚀 Live Demo
 
-The game is available as a standalone executable file. Simply download and run the `.exe` file to start playing.
+The game is available as a standalone executable file. Simply download and run the `.exe` file from the `dist` folder to start playing.
 
 ---
 
@@ -23,7 +23,7 @@ You can find the source code for this project on GitHub:
 - **Grid Background**: A visually appealing grid background that matches the block size.
 - **Multiple Speed Levels**: Choose from three speed levels: Normal, Medium, and Fast.
 - **Interactive Gameplay**: Control the snake using arrow keys and collect food to grow.
-- **Executable File**: A `.exe` file is provided for easy execution on Windows.
+- **Executable File**: A `.exe` file is provided for easy execution on Windows, located in the `dist` folder.
 
 ---
 
@@ -50,7 +50,7 @@ To run the game locally, follow these steps:
     python main.py
     ```
 
-Alternatively, you can run the `.exe` file provided in the repository for Windows users.
+Alternatively, you can run the `.exe` file provided in the `dist` folder for Windows users.
 
 ---
 
